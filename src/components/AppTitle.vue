@@ -1,6 +1,16 @@
 <script>
 export default {
+    data() {
+        return {
 
+        }
+    },
+    methods: {
+
+    },
+    mounted() {
+        console.log('inserito titolo')
+    },
 }
 
 </script>
